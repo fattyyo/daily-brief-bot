@@ -1,0 +1,9 @@
+discord.py>=2.3
+google-auth>=2.0
+google-auth-oauthlib>=1.0
+google-api-python-client>=2.0
+APScheduler>=3.10
+python-dotenv>=1.0
+playwright>=1.60
+beautifulsoup4>=4.12
+groq>=1.0

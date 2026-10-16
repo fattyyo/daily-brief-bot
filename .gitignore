@@ -1,0 +1,9 @@
+.env
+credentials.json
+token.json
+matcha_state.json
+__pycache__/
+*.pyc
+.DS_Store
+bot.log
+*.log
